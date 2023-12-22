@@ -1,1 +1,1 @@
-# icebear.github.io
+Block Ads by Cloudfare Zero Trust
